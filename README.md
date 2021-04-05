@@ -67,3 +67,9 @@ Practice assisgnments to prepare for oracle exam
     * Finally, class Assignment1_4 should use the Calculator class, to perform the
     calculation, and display the result.
     The password is enigma and the user should be given three opportunities to enter it
+    
+    
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
