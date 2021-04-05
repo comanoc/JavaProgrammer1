@@ -2,8 +2,7 @@
 Practice assisgnments to prepare for oracle exam
 
 # Topic 2
-## Assignment 1.2
-
+## [Assignment 1.2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.2)
 ### Part A
   Create a Java program, which is passed two arguments at the command prompt.
   The arguments should represent the names of your favourite fruits and be stored in
