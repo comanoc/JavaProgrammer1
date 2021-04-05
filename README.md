@@ -29,7 +29,8 @@ Practice assisgnments to prepare for oracle exam
 * "Paul",
 * "George"
 * "Ringo"
-  Sort the collection in ascending order and display the contents in the console.
+
+Sort the collection in ascending order and display the contents in the console.
   
 ### Part C
 
@@ -45,31 +46,26 @@ Practice assisgnments to prepare for oracle exam
 
   In this program, you are asked to create a simple desktop calculator. The program
   should be compiled and run from the command prompt (cmd).
-    * Create a class named Calculator, to be stored in a package named,
-    com.javadevelopers.code.
-    * The class should have the following instance variables.
-      o private float no1;
-      o private float no2;
-      o private String operator;
-    * Accessor (‘setter and getter’) methods should be created to allow the instance
-    variables to be set and retrieved.
-    * Create a method named, performCalculation(), which performs the
-    appropriate calculation (addition, subtraction, multiplication, division and
-    modulus) and returns the result.
-    * Create a class named, Assignment1_4.java, which contains the main
-    method.
-    * Use a Scanner object to prompt the user to enter two operands and an
-    operator.
-    * The user must not be allowed to enter invalid data. For example, the
-    operands must be numeric and the operator must be one of the following (+,-
-    ,*,/,%). For each data input, the program should not proceed, until the user
-    has entered valid data.
-    * Finally, class Assignment1_4 should use the Calculator class, to perform the
-    calculation, and display the result.
-    The password is enigma and the user should be given three opportunities to enter it
-    
-    
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* Create a class named Calculator, to be stored in a package named,
+com.javadevelopers.code.
+* The class should have the following instance variables.
+  * private float no1;
+  * private float no2;
+  * private String operator;
+* Accessor (‘setter and getter’) methods should be created to allow the instance
+variables to be set and retrieved.
+* Create a method named, performCalculation(), which performs the
+appropriate calculation (addition, subtraction, multiplication, division and
+modulus) and returns the result.
+* Create a class named, Assignment1_4.java, which contains the main
+method.
+* Use a Scanner object to prompt the user to enter two operands and an
+operator.
+* The user must not be allowed to enter invalid data. For example, the
+operands must be numeric and the operator must be one of the following (+,-
+,*,/,%). For each data input, the program should not proceed, until the user
+has entered valid data.
+* Finally, class Assignment1_4 should use the Calculator class, to perform the
+calculation, and display the result.
+The password is enigma and the user should be given three opportunities to enter it
+
