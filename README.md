@@ -16,9 +16,9 @@ Practice assisgnments to prepare for oracle exam
 ### [Part A](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.3/PartA.java)
   Briefly review the Arrays class in the java.util package (note, the Arrays class is not
   examinable on the Java Associate 8 exam).
-    • Create an array to store the following integers: 7,6,5,4,3,2,1.
-    • Sort the contents of the array in ascending numerical order.
-    • Output the contents of the array using an enhanced for loop.
+* Create an array to store the following integers: 7,6,5,4,3,2,1.
+* Sort the contents of the array in ascending numerical order.
+* Output the contents of the array using an enhanced for loop.
     
 ### [Part B](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.3/PartB.java)
   Briefly review the Collections class in the java.util package (note, the Collections
