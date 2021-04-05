@@ -1,26 +1,26 @@
 # JavaProgrammer1
 Practice assisgnments to prepare for oracle exam
 
-# Topic 2
+# [Topic 2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2)
 ## [Assignment 1.2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.2)
-### Part A
+### [Part A](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.2/PartA.java)
   Create a Java program, which is passed two arguments at the command prompt.
   The arguments should represent the names of your favourite fruits and be stored in
   the args array.
   Using the arguments stored in the args array, display a message in the console.
 
-## Assignment 1.3
+## [Assignment 1.3](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.3)
   An important skill for a Java programmer, is the ability to read and understand the
   Java API.
   
-### Part A
+### [Part A](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.3/PartA.java)
   Briefly review the Arrays class in the java.util package (note, the Arrays class is not
   examinable on the Java Associate 8 exam).
     • Create an array to store the following integers: 7,6,5,4,3,2,1.
     • Sort the contents of the array in ascending numerical order.
     • Output the contents of the array using an enhanced for loop.
     
-### Part B
+### [Part B](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.3/PartB.java)
   Briefly review the Collections class in the java.util package (note, the Collections
   class is not examinable on the Java Associate 8 exam).
   Create an ArrayList named members, to store the following strings:
@@ -31,7 +31,7 @@ Practice assisgnments to prepare for oracle exam
 
 Sort the collection in ascending order and display the contents in the console.
   
-### Part C
+### [Part C](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.3/PartC.java)
 
   To answer this question, you will need to briefly review the String class (java.lang)
   and the Console class in the java.io package (note, the Console class is not
@@ -41,7 +41,7 @@ Sort the collection in ascending order and display the contents in the console.
   Create a program (utilising the Console class), which prompts the user to enter a
   ghosted password at the command prompt.
   
-## Assignment 1.4
+## [Assignment 1.4](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.4)
 
   In this program, you are asked to create a simple desktop calculator. The program
   should be compiled and run from the command prompt (cmd).
