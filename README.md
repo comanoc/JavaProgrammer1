@@ -25,10 +25,10 @@ Practice assisgnments to prepare for oracle exam
   Briefly review the Collections class in the java.util package (note, the Collections
   class is not examinable on the Java Associate 8 exam).
   Create an ArrayList named members, to store the following strings:
-    * "John"
-    * "Paul",
-    * "George"
-    * "Ringo"
+* "John"
+* "Paul",
+* "George"
+* "Ringo"
   Sort the collection in ascending order and display the contents in the console.
   
 ### Part C
