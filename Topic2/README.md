@@ -1,4 +1,15 @@
 # [Topic 2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2)
+Java Building Blocks
+Objectives: 
+* Understand the Java class structure
+* Understand package declarations and imports
+* Create objects
+* Distinguish between object references and primitives
+* Understand default initialization of variables
+* Understand variable scope
+* Order elements in a class
+* Destroy objects
+
 ## [Assignment 1.2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.2)
 ### [Part A](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic2/Assignment1.2/PartA.java)
   Create a Java program, which is passed two arguments at the command prompt.
