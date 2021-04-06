@@ -175,3 +175,32 @@ Scenario
 The Bank of Duke has asked you to create an ATM application to run in a terminal.
 The bank currently only has three customers
 
+| Account Number | PIN  | First Name | Last Name | Balance |
+| :---           | :--- | :---       |:---       |:---     |
+| 45646432       | 3435 | Julian     | King      |  100    |
+| 48593741       | 8246 | Anne       | Williams  |  200    |
+| 15432432       | 6157 | Derek      | James     |  300    |
+
+Create a class named [Account](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.10/Account.java), to store information about the bank’s
+customers. Include a constructor and accessor methods in the class.
+
+Create a class named [Assignment1_10](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.10/Assignment1_10.java), to include the main method.
+* The class should create three objects of class type, Account.
+* The objects should be stored in an array of class type, Account.
+* The program should prompt the customer to enter their Account no and PIN.
+* The program should determine whether the account number and PIN entered matches that of one of the bank’s customers.
+* Use the Console class to allow the 
+* customer to enter a ‘ghosted password’.
+* If the PIN or account number entered by the customer is invalid, they should be told so. The program must not continue.
+* If the details entered by the customer is recognised, information about cash withdrawals should then be presented. The maximum withdrawal amount is
+200 Euro and only certain withdrawal denominations are allowed.
+* The withdrawal amount entered must be validated.
+  * Text entries will not be accepted.
+  * Negative numbers will not be accepted.
+  * Floating point numbers will not be accepted.
+* A Scanner object should be used to allow the user to enter the withdrawal amount.
+* If a valid withdrawal amount is entered, the program should check to see 
+  1. If the customer has sufficient funds available.
+  2. If so, the withdrawal should be processed
+  3. Customer’s new balance should be displayed.
+  4.  If the customer does not have sufficient funds, an appropriate message should be displayed.
