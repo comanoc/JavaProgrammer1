@@ -2,7 +2,7 @@
 Practice assisgnments to prepare for oracle exam.
 Some examples are purposly confusing or badly layout as it is similar on the exam.
 
- [Topic 2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2)
+## [Topic 2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2)
 Java Building Blocks
 Objectives: 
 * Understand the Java class structure
