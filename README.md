@@ -1,5 +1,6 @@
 # JavaProgrammer1
-Practice assisgnments to prepare for oracle exam
+Practice assisgnments to prepare for oracle exam.
+Some examples are purposly confusing or badly layout as it is similar on the exam.
 
 # [Topic 2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2)
 ## [Assignment 1.2](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.2)
@@ -68,7 +69,7 @@ has entered valid data.
 calculation, and display the result.
 The password is enigma and the user should be given three opportunities to enter it
 
-## Assignment 1.5
+## [Assignment 1.5](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.5)
 Create a class named, ClassA. The class should be stored in a package, named
 packageA. The class should be able to track and return, the number of objects
 instantiated of its type (how many ClassA objects have been created).
@@ -80,4 +81,97 @@ method. In main:
 * Create two ClassA objects and one ClassB object.
 * Display the number of ClassA and ClassB objects created, in the console.
 Compile and run the program from the command prompt (cmd)
+
+## [Assignment 1.6](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.6)
+Create an exercise folder named, Assignment 1.6.
+* Create a class file named, HelloWorld.java.
+* Create a no-argument constructor for the class. In the constructor, output the message, Hello World!
+* Don’t compile the .java file yet.
+
+Create a separate folder out on your desktop named, someOtherLocation.
+* Create a class file named, HelloUniverse.java.
+* Create a no-argument constructor for the class. In the constructor, output the message, Hello Universe!
+* Don’t compile the .java file yet.
+
+Back in your exercise folder named, Assignment 1.6.
+* Create a class file named, Assignment1_6.java, to contain the main method.
+* Create an object from the HelloUniverse class.
+* Create an object from the HelloWorld class.
+* Compile all the .java files with one command line instruction (at cmd prompt).
+* Run the program at the command prompt (at cmd prompt).
+
+## [Assignment 1.7](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.7)
+Create a class named Balloon. It should contain the following:
+* An instance variable named, pressure (of type float). Assign it a value of
+100.56. Use public as the access modifier.
+* An instance initializer block, in which the value of the instance variable is
+assigned a value of 200.56.
+* A no-argument constructor, in which the value of the instance variable is
+assigned a value of 300.56.
+Create a separate class named, Assignment1_7. This class should contain the main
+method. Instantiate a Balloon object, and use the object reference created to access the
+instance variable, pressure. What value to you expect to see displayed in the console?
+* 100.56
+* 200.56
+* 300.56 = answer
+
+## [Assignment 1.8](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.8)
+Carefully review the following programs. In each program, ask yourself 
+1. How many objects have been created in heap memory? 
+2. How many objects are eligible for garbage collection on Line 7 and Line 8 respectively?
+
+### [Part A](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.8/PartA.java)
+### [Part B](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.8/PartB.java)
+
+## [Assignment 1.9](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9)
+
+### [Part A](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9/PartA.java)
+Write a program, which displays the maximum number that a variable of type int can
+hold. The variable should be declared in the main method. Research the Integer
+‘wrapper’ class in the Java API
+
+### [Part B](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9/PartB.java)
+Write a program, which declares a variable of type long, to store the value,
+2,147,483,648. The variable should be declared in the main method.
+
+
+### [Part C](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9/PartC.java)
+Write a program, which declares a variable (of type int), named width. The variable
+should be declared in the main method.
+* The variable should be assigned the decimal literal value 3. Print the value stored in the variable to the console.
+* Re-assign the variable with the binary literal value 3. Print the value stored in the variable to the console.
+* Re-assign the variable with the octal literal value 3. Print the value stored in the variable to the console.
+* Re-assign the variable with the hexadecimal literal value of 3. Print the value stored in the console.
+
+
+### [Part D](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9/PartD.java)
+
+Write a program, which declares a variable (of type float) and assign it the value,
+3450000.34. Use the underscore, ‘_’, to make the literal value easier to read in the
+program.
+
+### [Part E](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9/PartE.java)
+
+Create a simple class to model a Peach. The class should have one instance
+variable, price, of type float. Create a class named, Assignment1_9E.java, which
+includes the main method. In the main method, instantiate three Peach objects as
+follows:
+* Peach p1 = new Peach(3.40f);
+* Peach p2 = new Peach(5.60f);
+* Peach p3 = new Peach(3.00f);
+In main, determine the number of Peach objects created and the average price of a
+Peach. Include class variables and class methods in class Peach to help solve the
+problem.
+
+
+### [Part F](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.9/PartF.java)
+Carefully review the following program. 
+* Does it compile? answer = Yes
+* If so, does it produce any output? answer = true 
+
+## [Assignment 1.10](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic2/Assignment1.10)
+In this program, you are asked to simulate the workings of an ATM machine.
+Scenario
+The Bank of Duke has asked you to create an ATM application to run in a terminal.
+The bank currently only has three customers
 
