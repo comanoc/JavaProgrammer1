@@ -39,7 +39,7 @@ Use a pen and paper to record your answers.
 This question tests your understanding of the String Concatenation Operator.
 Initially, use a pen and paper to record your answers.
 
-### Assignment 2.10](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic3/Assignment2/Assignment2_10.java)
+### [Assignment 2.10](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic3/Assignment2/Assignment2_10.java)
 The instanceof operator will be examined on the Oracle Certified Professional course
 (OCP8). It will not be examined on the Java Associate exam.
 However, in this question, I would like you to become familiar with this operator.
