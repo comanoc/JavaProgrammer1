@@ -13,3 +13,13 @@ Objectives:
 * Understand variable scope
 * Order elements in a class
 * Destroy objects
+
+
+## [Topic 3](https://github.com/comanoc/JavaProgrammer1/tree/master/Topic3)
+Objectives:
+* Understand Java operators
+* Work with binary arithmetic operators
+* Work with unary operators
+* Use additional binary operators
+* Understand Java statements
+* Understand advanced flow control
