@@ -1,3 +1,6 @@
+Questions on what we expect to be printed to console if we compile and run the code.
+
+
 ### [Assignment 2.1](https://github.com/comanoc/JavaProgrammer1/blob/master/Topic3/Assignment2/Assignment2_1.java)
 The following question tests your understanding of arithmetic operators.
 Review the program
