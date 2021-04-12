@@ -292,3 +292,14 @@ class to perform a number of date manipulations.
 3. Add four weeks to the date.
 4. Add six months to the date.
 5. Add two years to the date.
+
+#### Part C
+Create a class named Assignment4_7C.java.
+
+2017-06-07 11:20
+
+Create the specified date and time (using a LocalDateTime object), making use of the following classes in the java.time package.
+
+* LocalDate
+* LocalTime
+Using method chaining, use methods of the LocalDateTime object to subtract 7 days, 6 hours and 30 seconds from the LocalDateTime object, previously created.
