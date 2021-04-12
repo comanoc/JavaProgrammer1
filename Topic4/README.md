@@ -50,7 +50,7 @@ public class Assignment4_1C{
 #### Part A
 Create a class named, Assignment4_2A. The class should contain one instance
 variable named message, of type String, to contain the following text.
-String message = "Duke's big day out!";
+`String message = "Duke's big day out!";`
 In the main method, use the appropriate methods of the String class, to answer the
 following questions.
 * Is the string "big", contained in the string, "Duke's big day out!"? Print the
@@ -123,7 +123,7 @@ Class Friend, should contain the following:
 `public Friend(String firstName, String lastName, String phoneNo, String emailAddress)`
 
 ##### Methods
-`public String toString()``
+`public String toString()`
 
 The main method should be declared in class Assignment4_3B. In the main
 method, create the following objects of type Friend.
