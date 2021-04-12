@@ -268,3 +268,27 @@ the ArrayList.
 * Step 6: Remove the album, ‘The Very Best of Fleetwood Mac' from the ArrayList.
 * Step 7: Display the number of albums stored in the ArrayList.
 * Step 8: Display the contents of the ArrayList.
+
+### Assignment 4.7
+#### Part A
+Create a Java program named, Assignment4_7A.java, which makes use of classes
+in the java.time package to perform the following actions:
+
+1. Display today’s date.
+2. Display the current time.
+3. Display the current date and time.
+4. Construct the following date and time:
+
+| Year | Month | Day of Month | Hour | Minute | Second |
+| ---- | ----- | ------------ | ---- | ------ | ------ |
+| 2017 |   12  |      25      |  13  |   00   |   05   |
+
+#### Part B
+Create a Java program named, Assignment4_7B.java, which uses the LocalDate
+class to perform a number of date manipulations.
+
+1. Use the LocalDate class to construct the following date: 2018-01-01
+2. Add seven days to the date.
+3. Add four weeks to the date.
+4. Add six months to the date.
+5. Add two years to the date.
