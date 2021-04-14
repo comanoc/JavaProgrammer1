@@ -303,3 +303,93 @@ Create the specified date and time (using a LocalDateTime object), making use of
 * LocalDate
 * LocalTime
 Using method chaining, use methods of the LocalDateTime object to subtract 7 days, 6 hours and 30 seconds from the LocalDateTime object, previously created.
+
+### Assignment 4.8
+#### Part A
+Using classes defined in the java.time package, can you create the following output?
+
+2017-01-01
+2017-02-01
+2017-03-01
+2017-04-01
+2017-05-01
+2017-06-01
+2017-07-01
+2017-08-01
+2017-09-01
+2017-10-01
+2017-11-01
+2017-12-01
+
+2017-12-02
+2017-11-02
+2017-10-02
+2017-09-02
+2017-08-02
+2017-07-02
+2017-06-02
+2017-05-02
+2017-04-02
+2017-03-02
+2017-02-02
+2017-01-02
+
+2017-01-01
+2017-07-01
+
+#### Part B
+Create a class named, Assignment4_8B.java.
+Create a LocalDate object to store 08/06/2017
+Use methods of the LocalDate object, to produce the output shown below.
+
+THURSDAY
+JUNE
+2017
+159
+
+#### Part C
+Create a Java program, which formats the date and time, as shown below.
+
+The Football Cup starts on; 17-06-2017
+Russia v New Zealand kicks off at: 18:00:00
+
+Use a user-defined date format and a user-defined time format in your solution.
+
+#### Part D
+Create a program, which formats the date and time, as shown below.
+
+The first match in the Football Cup takes place on: 17/06/17
+The Football Cup Final takes place on: 02-Jul-2017
+The kick off time of the final is: 21:00:00
+
+Use pre-defined format styles in our solution.
+
+#### Part E
+In 2017, the Wimbledon’s Men’s Tennis final took place on the 16th July.
+Create a class named, Assignment4_8E.java, which contains the main method. In
+main, create the following variable.
+
+`String mensTennisFinal = "07 16 2017";`
+
+Convert this String to a LocalDate object and display the output, as shown in the
+screenshot.
+
+### Assignment 4.9
+
+Create a class named Assignment4_9A.java.
+In the main method, create a StringBuilder object containing the String, “Learning
+Java is fun”.
+
+* Append the following String to the StringBuilder object. “ and rewarding.”.
+Print the value of the StringBuilder object to the console.
+
+* Insert the String, "programming ", after the word "Java ", in the StringBuilder object.
+Print the value of the StringBuilder object to the console.
+
+* Delete the String "Java ", from the StringBuilder object.
+Print the value of theStringBuilder object to the console.
+
+* Reverse the value of the String stored in the StringBuilder object.
+Print the value of the StringBuilder object to the console.
+
+* Reverse the value again and call the toString() method of the StringBuilder object.
