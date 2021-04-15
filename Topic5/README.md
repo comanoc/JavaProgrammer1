@@ -197,3 +197,85 @@ public void changeIt(Assignment5_7B obj){
 }
 }
 ```
+
+### Assignment 5.8
+I wish to create an immutable class called Assignment5_8.
+I wish to store the following numbers in an ArrayList. The ArrayList should be
+declared and instantiated as an instance variable.
+
+100
+200
+300
+400
+
+I only want users of my class to be returned a copy of the ArrayList.
+Model the above requirements for class, Assignment5_8.
+
+Create a second class named TestEncapsulation. In the main method, create an
+object of type Assignment5_8.
+
+* Using your Assignment5_8 object reference, call a method, which returns a
+copy of the ArrayList of numbers. Display the contents of the local copy of the
+ArrayList in the console. It should read: 100 200 300 400.
+* Using the local copy of the ArrayList of numbers, remove the item stored at
+element 3. Now display the contents of the local copy of the ArrayList in the
+console. It should read 100 200 300.
+* Finally, request access again to the ArrayList of numbers in the
+Assignment5_8 class. Again, you will only receive a copy of the ArrayList
+object. You should see the following numbers in the console. It should read:
+100 200 300 400. The original ArrayList object is untouched – our class was
+immutable.
+
+### Assignment 5.9
+Create a class named CalculateRemainder.java, the purpose of which is to perform
+modulus (remainder) operations.
+
+The following functionality should be incorporated.
+* A method which is passed two bytes and returns the remainder of the two
+numbers as a byte. For example, when 10 is divided by 3, the remainder is 1.
+* A method which is passed two shorts and returns the remainder of the two
+numbers as a short.
+* A method which is passed two ints and returns the remainder of the two
+numbers as an int.
+* A method which is passed two longs and returns the remainder of the two
+numbers as a long.
+
+Create a class named Assignment 5_9.java, which contains the main method.
+In main(), declare and instantiate an object of type CalculateRemainder.
+Test the functionality of the methods declared in the CalculateRemainder class, as
+shown below.
+
+Mod operation on two bytes: 100 and 6: Result 4
+Mod operation on two shorts: 100 and 6: Result 4
+Mod operation on two ints: 100 and 6: Result 4
+Mod operation on two longs: 100 and 6: Result 4
+
+
+### Assignment 5.10
+Create a class to model a Banana.
+A Banana has a price and is produced by a manufacturer.
+The following Banana objects should be created with the specified attributes:
+
+| Manufacturer | Price |
+| ------------ | ----- |
+| Foffs        | 1.40  |
+| Toffs        | 2.00  |
+| Mushies      | 1.20  |
+
+
+* A Banana object cannot be created if the price is negative.
+
+The Banana class should be able to determine:
+* the number of Banana objects created.
+* the average price of a Banana.
+
+The following design features should also be incorporated in the Banana class:
+* Static initializers.
+* Instance initializers.
+* A constructor with two arguments.
+* Accessor and mutator methods.
+Create a separate class named, Assignment5_10.java, which contains the main
+method. Create three Banana objects (using the table above) and using the
+appropriate members of the Banana class, determine the following:
+(A): the number of Banana objects created.
+(B): the average price of a Banana
