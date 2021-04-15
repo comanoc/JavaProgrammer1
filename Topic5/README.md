@@ -69,6 +69,7 @@ The class should have the following fields / instance variables.
 * `private String title;`
 * `private String label;`
 * `private String decadeOfRelease;`
+
 A constructor should be included in the class, which accepts four arguments.
 The `testing()` method should be overridden to return the state of the instance
 variables.
