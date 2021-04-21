@@ -286,4 +286,25 @@ Elephant e2 = new Elephant("Tiny",6, false);
 
 * Iterate through the array, and determine whether each animal is hungry.
 * If the animal is hungry, the Animal Keeper should feed it. Otherwise, the
-animal should perform its trick. 
+animal should perform its trick.
+
+### Assignment 6.8
+Solve the problem presented, using an object-oriented programming design of your
+choice.
+A car has a number of attributes including manufacturer, model, car registration and
+year.
+There are two types of car (a motor car and an electric car).
+A motor car uses a piston engine. An electric car uses an electric motor. An engine
+can be started. Let’s assume that all motor cars use the same type of piston engine
+and that all electric cars use the same type of electric motor.
+A Renault Twizy is an example of an electric car. A Toyota Yaris is an example of a
+motor car.
+A motor car must be refuelled whereas an electric car must be recharged. Cars can
+accelerate and brake. There is no standard implementation for these behaviours. It is
+up to the particular car models to implement the behaviours in a specific manner.
+All cars use a standard make of radio. When the user turns on the radio, the
+following message should be displayed, “Radio turned on and tuned in.”
+* Create an OOP solution given the program requirements.
+* Re-produce the program output shown in the screenshot below.
+
+![](assets/README-f029c89c.png)
