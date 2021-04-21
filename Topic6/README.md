@@ -315,6 +315,7 @@ declared.
 * private String name;
 * private String toppings;
 * private float noOfCalories;
+
 Create a constructor along with setter and getter methods. Override the `toString()`
 method and include the `@Override` annotation.
 Let’s assume that we consider a cake to be a healthy food, if the number of calories
