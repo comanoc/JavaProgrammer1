@@ -308,3 +308,26 @@ following message should be displayed, “Radio turned on and tuned in.”
 * Re-produce the program output shown in the screenshot below.
 
 ![](assets/README-f029c89c.png)
+
+### Assignment 6.9
+Create a class to model a Cake. The following instance variables should be
+declared.
+* private String name;
+* private String toppings;
+* private float noOfCalories;
+Create a constructor along with setter and getter methods. Override the `toString()`
+method and include the `@Override` annotation.
+Let’s assume that we consider a cake to be a healthy food, if the number of calories
+are less than or equal to 215.
+
+Create the following Cake objects.
+
+| Name              | Toppings               | No. of Calories |
+| ----------------- | ---------------------- | --------------- |
+| Lemon Drizzle     | Lemon icing sugar      | 200             |
+| Fairy Cake        | Chocolate icing sugar  | 400             |
+| Battenburg        | Chocolate icing sugar  | 800             |
+| Strawberry Sponge | Strawberry icing sugar | 215             |
+
+
+Using lambda expressions, display details of only the cakes that are healthy.
