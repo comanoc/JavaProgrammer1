@@ -1,0 +1,3 @@
+Average temperature: 7.2
+Min temperature: 2.0
+Max temperature: 11.0
